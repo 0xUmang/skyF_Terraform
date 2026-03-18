@@ -1,4 +1,4 @@
-# skyF_Terraform
+# Terraform
 
 This exercise automates the provisioing of EC2 instances with some custom identified usecases
 
